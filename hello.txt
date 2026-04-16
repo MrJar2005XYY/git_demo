@@ -12,6 +12,6 @@ hello alone ranger!!hello git!!   main test
 hello alone ranger!!hello git!!
 hello alone ranger!!hello git!!
 hello alone ranger!!hello git!!
-hello alone ranger!!hello git!!
+hello alone ranger!!hello git!!  hot-fix test
 hello alone ranger!!hello git!!
 
